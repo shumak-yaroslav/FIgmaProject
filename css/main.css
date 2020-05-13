@@ -247,6 +247,8 @@ img {
 	text-transform: uppercase;
 }
 
+
+
 .menu3 {
 	margin-top: 50px;
 	margin-left: 30px
@@ -611,4 +613,193 @@ form.catalin{
 
 .hover1 {
 	margin-top: -400px;
+}
+
+.hover3 {
+	margin-top: 200px;
+}
+
+.hover4 {
+	margin-top: 300px;
+}
+
+
+#first_text4 {
+	color: #fff;
+	text-transform: uppercase;
+	margin-top: 100px;
+	margin-left: 100px;
+}
+
+#second_text4 {
+	color: #cdcccf;
+	font-size: 15px;
+	margin-top: 20px;
+	margin-bottom: 100px;
+	margin-left: 100px;
+}
+
+.main_content4 {
+	margin-left: 100px;
+	margin-top: 100px;
+}
+
+.main_content5 {
+	margin-left: 100px;
+	margin-top: -600px;
+}
+
+
+#img4 {
+	width: 800px;
+	height: 800px;
+	margin-top: -250px;
+	margin-left: 600px
+}
+
+.scrollmenu {
+  background-color: #0D174B;
+  overflow: auto;
+  white-space: nowrap;
+  width: 1180px;
+  margin-left: 600px;
+  margin-top: 0px;
+  height: 380px;
+}
+
+.scrollmenu a {
+  display: inline-block;
+  color: white;
+  text-align: center;
+  padding: 14px;
+  text-decoration: none;
+  margin-right: 50px;
+  width: 300px;
+  height: 300px;
+  background-color: #32a4a8;
+}
+
+.block1 {
+	width: 300px;
+  	height: 300px; 
+}
+
+.block1 h1 {
+	font-size: 20px;
+	text-transform: uppercase;
+	margin-top: 50px;
+	margin-left: 20px;
+	text-align: left;
+}
+
+.block1 h2 {
+	font-size: 10px;
+	margin-left: 20px;
+	margin-top: 30px;
+	text-align: left;
+	
+}
+
+.block2 h1 {
+	font-size: 20px;
+	text-transform: uppercase;
+	margin-left: 20px;
+	text-align: left;
+	margin-top: 50px;
+}
+
+.block2 h2 {
+	font-size: 10px;
+	margin-left: 20px;
+	margin-top: 30px;
+	text-align: left;
+	
+}
+
+.block3 h1 {
+	font-size: 20px;
+	text-transform: uppercase;
+	margin-left: 20px;
+	text-align: left;
+	margin-top: 50px;
+}
+
+.block3 h2 {
+	font-size: 10px;
+	margin-left: 20px;
+	margin-top: 30px;
+	text-align: left;
+	
+}
+
+.block4 h1 {
+	font-size: 20px;
+	text-transform: uppercase;
+	margin-left: 20px;
+	text-align: left;
+	margin-top: 50px;
+}
+
+.block4 h2 {
+	font-size: 10px;
+	margin-left: 20px;
+	margin-top: 30px;
+	text-align: left;
+	
+}
+
+.block5 h1 {
+	font-size: 20px;
+	text-transform: uppercase;
+	margin-left: 20px;
+	text-align: left;
+	margin-top: 50px;
+}
+
+.block5 h2 {
+	font-size: 10px;
+	margin-left: 20px;
+	margin-top: 30px;
+	text-align: left;
+	
+}
+
+.block2 {
+	width: 300px;
+  	height: 300px;
+}
+
+.block3 {
+	width: 300px;
+  	height: 300px;
+}
+
+.block4 {
+	width: 300px;
+  	height: 300px;
+}
+
+.block5 {
+	width: 300px;
+  	height: 300px;
+}
+
+.scrollmenu a:hover {
+  background-color: #777;
+}
+
+.btn4 {
+	font-weight: 70;
+	font-size: 10px;
+	text-align: center;
+	color: #fff;
+	border-radius: 25px;
+	width: 100px;
+	padding: 10px 0;
+	display: block;
+	margin-left: 10px;
+	margin-top: 40px;
+	border: 1px solid #fff;
+	text-transform: uppercase;
+	background-color: #32a4a8;
 }
