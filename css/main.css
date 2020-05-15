@@ -4,6 +4,15 @@ body {
 	background-color: #0D174B
 }
 
+.header {
+	max-width: 1798px;
+}
+
+.containre {
+	max-width: 1798px;
+}
+
+
 
 .nav {
 	display: -webkit-flex;
@@ -63,8 +72,7 @@ a {
 	color: #4331a8;
 	background-color: #4331a8;
 	height: 1px;
-	width: 1850px;
-	margin-left: -400px;
+	max-width: 1798px ;
 }
 
 
