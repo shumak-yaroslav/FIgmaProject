@@ -323,7 +323,7 @@ img {
 }
 
 form.catalin{
-  width: 410px;
+  width: 210px;
   margin: 50px auto;
   overflow: hidden;
   padding: 10px;
@@ -338,7 +338,7 @@ form.catalin{
     padding: 2px 10px 2px 4px;
     font: 16px Arial, Helvetica, sans-serif;
     height: 26px;
-    width: 306px;
+    width: 106px;
     margin: 0;
     background-color: #0D174B;
     -webkit-appearance: none;
