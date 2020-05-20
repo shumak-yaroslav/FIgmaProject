@@ -1,0 +1,53 @@
+.login{
+    display: flex;
+    flex-direction: row;
+   
+}
+.login_fields{
+    width: 100%;
+   
+}
+.login_fields form{
+    display: flex;
+    flex-direction: column;
+}
+.login h3,p{
+    color: white;
+    margin: auto;
+    width: 250px;
+    padding-bottom: 10px;
+}
+.sign_up input{
+    border: none;
+    background-color: transparent;
+    border-bottom: 1px solid white;
+    width: 500px;
+    padding-top: 20px;
+    padding-bottom: 10px;
+    margin: auto;
+}
+.sign_up input::placeholder{
+    color: white;
+}
+
+.sign_up button{
+    font-weight: 900;
+	font-size: 14px;
+	float: right;
+	text-align: center;
+	color: #fff;
+	border-radius: 25px;
+	width: 200px;
+	padding: 10px 0;
+	display: block;
+    text-transform: uppercase;
+    background-color: #F6232C;
+    border: none;
+    margin: auto;
+    margin-top: 40px;
+}
+.login_img{
+    background-color: #090949;
+    height: 100vh;
+    width: 100%;
+}
